@@ -1,4 +1,5 @@
-二分查找：
+#二分查找：
+
 ```cpp
 int binarySearch(vector<int> nums, int key) {
     int l = 0, r = nums.length - 1;
